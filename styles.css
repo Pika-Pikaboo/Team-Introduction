@@ -68,8 +68,7 @@ body {
 .content::before {
   content: "";
   position: absolute;
-  /*  inset: 80px;*/
-  inset: 10%;
+  inset: 80px;
   border-radius: 50vw;
   border: 4px solid transparent;
   border-left: 4px solid aqua;
@@ -81,8 +80,7 @@ body {
 .content::after {
   content: "";
   position: absolute;
-  /*  inset: 150px;*/
-  inset: 17%;
+  inset: 150px;
   border-radius: 50vw;
   border: 4px solid transparent;
   border-left: 4px solid white;
